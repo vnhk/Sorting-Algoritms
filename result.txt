@@ -1,0 +1,371 @@
+Sortowanie dla 500 elementow
+Wstepne wypelnienie tablicy: losowe 
+Sortowanie rosnaco. 
+Sortowanie Insertion Sort.
+Czas sortowania: 0.001s.
+Ilosc zamian: 65951
+
+
+Sortowanie dla 5000 elementow
+Wstepne wypelnienie tablicy: losowe 
+Sortowanie rosnaco. 
+Sortowanie Insertion Sort.
+Czas sortowania: 0.03s.
+Ilosc zamian: 6291106
+
+
+Sortowanie dla 50000 elementow
+Wstepne wypelnienie tablicy: losowe 
+Sortowanie rosnaco. 
+Sortowanie Insertion Sort.
+Czas sortowania: 3.139s.
+Ilosc zamian: 616623238
+
+
+Sortowanie dla 150000 elementow
+Wstepne wypelnienie tablicy: losowe 
+Sortowanie rosnaco. 
+Sortowanie Insertion Sort.
+Czas sortowania: 28.593s.
+Ilosc zamian: 1263856661
+
+
+Sortowanie dla 300000 elementow
+Wstepne wypelnienie tablicy: losowe 
+Sortowanie rosnaco. 
+Sortowanie Insertion Sort.
+Czas sortowania: 115.932s.
+Ilosc zamian: 761199580
+
+
+Sortowanie dla 500 elementow
+Wstepne wypelnienie tablicy: losowe 
+Sortowanie rosnaco. 
+Sortowanie Selection Sort.
+Czas sortowania: 0.001s.
+Ilosc zamian: 1464
+
+
+Sortowanie dla 5000 elementow
+Wstepne wypelnienie tablicy: losowe 
+Sortowanie rosnaco. 
+Sortowanie Selection Sort.
+Czas sortowania: 0.051s.
+Ilosc zamian: 14853
+
+
+Sortowanie dla 50000 elementow
+Wstepne wypelnienie tablicy: losowe 
+Sortowanie rosnaco. 
+Sortowanie Selection Sort.
+Czas sortowania: 5.843s.
+Ilosc zamian: 148581
+
+
+Sortowanie dla 150000 elementow
+Wstepne wypelnienie tablicy: losowe 
+Sortowanie rosnaco. 
+Sortowanie Selection Sort.
+Czas sortowania: 52.328s.
+Ilosc zamian: 445599
+
+
+Sortowanie dla 300000 elementow
+Wstepne wypelnienie tablicy: losowe 
+Sortowanie rosnaco. 
+Sortowanie Selection Sort.
+Czas sortowania: 208.37s.
+Ilosc zamian: 891165
+
+
+Sortowanie dla 500 elementow
+Wstepne wypelnienie tablicy: losowe 
+Sortowanie rosnaco. 
+Sortowanie Prosta Zamiana.
+Czas sortowania: 0.002s.
+Ilosc zamian: 196356
+
+
+Sortowanie dla 5000 elementow
+Wstepne wypelnienie tablicy: losowe 
+Sortowanie rosnaco. 
+Sortowanie Prosta Zamiana.
+Czas sortowania: 0.155s.
+Ilosc zamian: 18858321
+
+
+Sortowanie dla 50000 elementow
+Wstepne wypelnienie tablicy: losowe 
+Sortowanie rosnaco. 
+Sortowanie Prosta Zamiana.
+Czas sortowania: 17.123s.
+Ilosc zamian: 1849719717
+
+
+Sortowanie dla 150000 elementow
+Wstepne wypelnienie tablicy: losowe 
+Sortowanie rosnaco. 
+Sortowanie Prosta Zamiana.
+Czas sortowania: 159.704s.
+Ilosc zamian: 18446744073205704306
+
+
+Sortowanie dla 300000 elementow
+Wstepne wypelnienie tablicy: losowe 
+Sortowanie rosnaco. 
+Sortowanie Prosta Zamiana.
+Czas sortowania: 615.818s.
+Ilosc zamian: 18446744071697283063
+
+
+Sortowanie dla 500 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie malejaco.
+Sortowanie Insertion Sort.
+Czas sortowania: 0s.
+Ilosc zamian: 125249
+
+
+Sortowanie dla 5000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie malejaco.
+Sortowanie Insertion Sort.
+Czas sortowania: 0.078s.
+Ilosc zamian: 12502499
+
+
+Sortowanie dla 50000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie malejaco.
+Sortowanie Insertion Sort.
+Czas sortowania: 5.46s.
+Ilosc zamian: 1250024999
+
+
+Sortowanie dla 150000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie malejaco.
+Sortowanie Insertion Sort.
+Czas sortowania: 55.976s.
+Ilosc zamian: 18446744072074724727
+
+
+Sortowanie dla 300000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie malejaco.
+Sortowanie Insertion Sort.
+Czas sortowania: 199.896s.
+Ilosc zamian: 2050477039
+
+
+Sortowanie dla 500 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie malejaco.
+Sortowanie Selection Sort.
+Czas sortowania: 0.001s.
+Ilosc zamian: 750
+
+
+Sortowanie dla 5000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie malejaco.
+Sortowanie Selection Sort.
+Czas sortowania: 0.063s.
+Ilosc zamian: 7500
+
+
+Sortowanie dla 50000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie malejaco.
+Sortowanie Selection Sort.
+Czas sortowania: 4.694s.
+Ilosc zamian: 75000
+
+
+Sortowanie dla 150000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie malejaco.
+Sortowanie Selection Sort.
+Czas sortowania: 43.479s.
+Ilosc zamian: 225000
+
+
+Sortowanie dla 300000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie malejaco.
+Sortowanie Selection Sort.
+Czas sortowania: 168.804s.
+Ilosc zamian: 450000
+
+
+Sortowanie dla 500 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie malejaco.
+Sortowanie Prosta Zamiana.
+Czas sortowania: 0.003s.
+Ilosc zamian: 374250
+
+
+Sortowanie dla 5000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie malejaco.
+Sortowanie Prosta Zamiana.
+Czas sortowania: 0.146s.
+Ilosc zamian: 37492500
+
+
+Sortowanie dla 50000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie malejaco.
+Sortowanie Prosta Zamiana.
+Czas sortowania: 12.531s.
+Ilosc zamian: 18446744073164509320
+
+
+Sortowanie dla 150000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie malejaco.
+Sortowanie Prosta Zamiana.
+Czas sortowania: 112.896s.
+Ilosc zamian: 18446744073099588248
+
+
+Sortowanie dla 300000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie malejaco.
+Sortowanie Prosta Zamiana.
+Czas sortowania: 487.223s.
+Ilosc zamian: 1855563824
+
+
+
+Sortowanie dla 500 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie rosnaco. 
+Sortowanie Insertion Sort.
+Czas sortowania: 0s.
+Ilosc zamian: 0
+
+
+Sortowanie dla 5000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie rosnaco. 
+Sortowanie Insertion Sort.
+Czas sortowania: 0s.
+Ilosc zamian: 0
+
+
+Sortowanie dla 50000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie rosnaco. 
+Sortowanie Insertion Sort.
+Czas sortowania: 0s.
+Ilosc zamian: 0
+
+
+Sortowanie dla 150000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie rosnaco. 
+Sortowanie Insertion Sort.
+Czas sortowania: 0.002s.
+Ilosc zamian: 0
+
+
+Sortowanie dla 300000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie rosnaco. 
+Sortowanie Insertion Sort.
+Czas sortowania: 0.002s.
+Ilosc zamian: 0
+
+
+Sortowanie dla 500 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie rosnaco. 
+Sortowanie Selection Sort.
+Czas sortowania: 0.001s.
+Ilosc zamian: 0
+
+
+Sortowanie dla 5000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie rosnaco. 
+Sortowanie Selection Sort.
+Czas sortowania: 0.059s.
+Ilosc zamian: 0
+
+
+Sortowanie dla 50000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie rosnaco. 
+Sortowanie Selection Sort.
+Czas sortowania: 5.28s.
+Ilosc zamian: 0
+
+
+Sortowanie dla 150000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie rosnaco. 
+Sortowanie Selection Sort.
+Czas sortowania: 47.005s.
+Ilosc zamian: 0
+
+
+Sortowanie dla 300000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie rosnaco. 
+Sortowanie Selection Sort.
+Czas sortowania: 185.25s.
+Ilosc zamian: 0
+
+
+
+
+Sortowanie dla 500 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie rosnaco. 
+Sortowanie Prosta Zamiana.
+Czas sortowania: 0s.
+Ilosc zamian: 0
+
+
+Sortowanie dla 5000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie rosnaco. 
+Sortowanie Prosta Zamiana.
+Czas sortowania: 0s.
+Ilosc zamian: 0
+
+
+Sortowanie dla 50000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie rosnaco. 
+Sortowanie Prosta Zamiana.
+Czas sortowania: 0s.
+Ilosc zamian: 0
+
+
+Sortowanie dla 150000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie rosnaco. 
+Sortowanie Prosta Zamiana.
+Czas sortowania: 0s.
+Ilosc zamian: 0
+
+
+Sortowanie dla 150000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie rosnaco. 
+Sortowanie Prosta Zamiana.
+Czas sortowania: 0s.
+Ilosc zamian: 0
+
+
+Sortowanie dla 300000 elementow
+Wstepne wypelnienie tablicy: rosnace 
+Sortowanie rosnaco. 
+Sortowanie Prosta Zamiana.
+Czas sortowania: 0.003s.
+Ilosc zamian: 0
+
+

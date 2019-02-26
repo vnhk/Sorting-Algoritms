@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1529607325 source:c:\users\user\desktop\programowanie\aisdproject\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<fstream>
+
